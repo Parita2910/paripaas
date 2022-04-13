@@ -1,0 +1,15 @@
+-- Created account in https://id.heroku.com/login
+-- Created app in heroku 
+-- Added app name "web401pari"
+-- run below command for github
+  -- $git --help
+  -- $ls
+  -- $git init
+  -- $git add
+  -- $git commit -m "init"
+  -- $git status
+  -- $heroku create
+  -- $git config --list | grep heroku
+  -- $git push heroku main
+  -- $heroku run rake db:migrate
+  -- $Heroku run rake db:seed
